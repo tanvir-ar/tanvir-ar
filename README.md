@@ -1,4 +1,4 @@
-- 👋 Hi, I’m tanvir-ar
+- 👋 Hi, I’m Tanvir A R
 - 👀 I’m interested in technologies.
 - 🌱 I’m currently learning code.
 - 💞️ I’m looking to collaborate on coding
